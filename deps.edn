@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.0"}
+        lambdaisland/kaocha{:git/url "https://github.com/lambdaisland/kaocha"
+                            :sha"398f5e66e65b7575511862f3ee61c8d62a945a7b"}}}
